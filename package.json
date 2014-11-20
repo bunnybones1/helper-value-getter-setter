@@ -1,0 +1,31 @@
+{
+  "name": "helper-value-getter-setter",
+  "version": "1.0.0",
+  "description": "A utility to quickly track down what is reading or writing a value.",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Tomasz Dysinski",
+    "email": "oz@bunnybones.com",
+    "url": "https://github.com/bunnybones1"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "beefy test.js --live --open"
+  },
+  "keywords": [
+    "getter",
+    "setter",
+    "watch",
+    "helper"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bunnybones1/helper-value-getter-setter.git"
+  },
+  "homepage": "https://github.com/bunnybones1/helper-value-getter-setter",
+  "bugs": {
+    "url": "https://github.com/bunnybones1/helper-value-getter-setter/issues"
+  }
+}
